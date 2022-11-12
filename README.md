@@ -9,5 +9,4 @@ I'm an iOS developer since 2015.
 - Objective-C
 - iOS developer
 - MacOS
-
-[LinkedIn](https://www.linkedin.com/in/lynnsouz/)
+[![Linkedin link](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/582px-LinkedIn_Logo.svg.png)](https://www.linkedin.com/in/lynnsouz/)
