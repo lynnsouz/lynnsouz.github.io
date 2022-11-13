@@ -1,14 +1,38 @@
-# Lynneker Souza
+# SUMMARY
+I'm an innovation enthusiast and iOS developer with about 8 years of experience with Swift and Objective-C. I got an amazing opportunity to enrich my development skills at Apple Developer Academy in Brasília(Brazil) during my major degree in Computer Science.
+Worked with some of the top Brazilian Banks, such as Banco Do Brasil, C6Bank, Itaú and Santander, meeting their high standards of security, design, deadlines and technologies.
 
-I'm an iOS developer since 2015.
+# SKILLS
+- Swift and Objective-C Development.
+- Debugging with Xcode.
+- UI and unit Tests.
+- Attention for details.
+- Strong object oriented programming.
+- Highly motivated.
+- Passion for quality.
+- Enthusiastic.
+- Love to learn and apply new technologies.
+- Work within a multi-functional team.
+- Always improving written and verbal communication and collaboration.
+- Proactive.
+- Critical thinking.
+- High adaptability.
+- Eager to learn new skills.
+- Excellent problem solving.
+- Creative.
 
-![Github logo image](https://github.githubassets.com/images/icons/emoji/octocat.png)
+# WORK EXPERIENCE
+## ACT Digital - C6 Bank
 
-## Skills
-- Swift
-- Objective-C
-- iOS developer
-- MacOS
+## Empiricus Research
 
-## Links
-[![Linkedin link](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/582px-LinkedIn_Logo.svg.png)](https://www.linkedin.com/in/lynnsouz/)
+## IBM
+
+## everis an NTT Data Company
+
+## Stefanini
+
+## Yi Mobile / Orbit Labs
+
+## BEPiD(Brazilian Education Program for iOS Development)
+### Apple Developer Academy
